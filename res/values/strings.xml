@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GaoDeLBSApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="welcome">高德地图Navi</string>
+	<string name="button_map_show">地图开启</string>
+</resources>
